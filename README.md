@@ -7,6 +7,6 @@ Solid State Lidar
 - MCC I2C Funktion
 - MCC SPI Funktion
 - MCC Fatfs Funktion
-- Sensorauswertung 12x Time-of-Flight (VL53L0X)
+- Sensorauswertung 8x Time-of-Flight (VL53L0X)
 - Speicherung der Sensordaten auf der SD-Karte
 - Weitergabe/Verteilung von UART Signalen
