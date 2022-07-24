@@ -10,3 +10,5 @@ Solid State Lidar
 - Sensorauswertung 8x Time-of-Flight (VL53L0X)
 - Speicherung der Sensordaten auf der SD-Karte
 - Weitergabe/Verteilung von UART Signalen
+
+![](Verkabelung%20V1.2.jpg)
