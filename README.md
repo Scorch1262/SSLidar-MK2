@@ -11,4 +11,4 @@ Solid State Lidar
 - Speicherung der Sensordaten auf der SD-Karte
 - Weitergabe/Verteilung von UART Signalen
 
-![](Verkabelung%20V2.1.jpg)
+![](Verkabelung%20V2.1.JPG)
